@@ -15,5 +15,5 @@
   PushToRemote="true"
   RemoteRepository="origin"
   UploadLogFile="true"
-  RemoveStale="false"
+  RemoveStale="true"
   ChangedOnly="true"></CatapultDestination>
