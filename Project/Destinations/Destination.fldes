@@ -14,6 +14,6 @@
   DatabaseRoot="C:\Users\madmin\Documents\x1"
   PushToRemote="true"
   RemoteRepository="origin"
-  UploadLogFile="false"
+  UploadLogFile="true"
   RemoveStale="false"
-  ChangedOnly="false"></CatapultDestination>
+  ChangedOnly="true"></CatapultDestination>
