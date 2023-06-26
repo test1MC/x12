@@ -13,4 +13,7 @@
   Database="C:\Users\madmin\Documents\x1\.git"
   DatabaseRoot="C:\Users\madmin\Documents\x1"
   PushToRemote="true"
-  RemoteRepository="origin"></CatapultDestination>
+  RemoteRepository="origin"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>
